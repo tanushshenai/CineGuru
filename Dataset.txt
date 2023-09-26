@@ -1,0 +1,8 @@
+I have provided the dataset is divided into 3 parts:
+
+One is this kaggle link of the major part of the dataset:
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/
+
+Other is the Merged.csv
+
+And finally, there is the titlesforage.csv
